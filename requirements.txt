@@ -5,7 +5,6 @@ altair
 astunparse
 attrs
 audioread
-backports.zoneinfo
 blinker
 cachetools
 certifi
